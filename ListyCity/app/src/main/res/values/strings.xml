@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ListyCity</string>
+
+    <string name="inputText1">Enter the Name of the City</string>
+    <string name="btnAddText">Add</string>
+    <string name="btnUpdateText">Update</string>
 </resources>
